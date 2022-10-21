@@ -1,0 +1,12 @@
+h1 {
+  color: #CE171F;
+}
+
+.menu-item:first-child {
+  font-weight: bold;
+}
+
+* {
+  text-indent: 10pt;
+
+}

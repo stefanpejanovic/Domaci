@@ -1,0 +1,29 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+  margin: 0;
+}
+
+.header-div {
+  background-color: #1B67A6;
+}
+
+
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: left;
+  margin: 0em 1em;
+}
+
+.menu-item {
+  padding: 1em;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,3 @@
+document.addEventListener("click", function () {
+    document.getElementById("pojavi").innerHTML = "Fudbalski klub Crvena zvezda osnovan je 4. marta 1945. godine, na inicijativu članova Ujedinjenog saveza antifašističke omladine Srbije. Prvobitno, mesec dana ranije - u februaru iste godine, osnovano je novo omladinsko fiskulturno društvo koje je brzo preraslo u sportski kolektiv i dobilo ime Crvena zvezda. Crvena zvezda ima najviše osvojenih šampionata (25) i kupova (24). Najveći uspeh postignut je 1991. godine kada osvaja Kup evropskih prvaka u Bariju, Italija i Interkontinentalni kup u Tokiju, Japan iste godine.";
+  });
